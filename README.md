@@ -1,4 +1,12 @@
-# Hi there 👋, I'm Marlon Nunez, an aspiring Software Engineer
+## Hi there 👋, I'm Marlon Nunez, an aspiring Data Scientist
+
+I am currently working as Project Manager for NewGlobe, a small Edtech / Ed Management company geared towards providing educational sustainbility in countries around the world. Long term, I am hoping to break into the tech industry as a Data Scientist of Full Stack Software Engineer.
+
+Growing up I always always STEM oriented. During my time in undergrad I studied Public Health and Neuroscience. However, I discovered my passion for technology, data, and engineering a few years out of college, when I started learning some Python, R, and SQL during my freetime. 
+
+In February 2023, I decided to take a big step towards my future and enrolled in a 10 month Full Stack Software Engineering online bootcamp at Practicum by Yandex. My learning journey started with a focus on principles of front-end engineering such as HTML and CSS. 
+
+
 
 <!--
 **mnunezsa95/mnunezsa95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
