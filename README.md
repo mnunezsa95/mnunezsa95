@@ -41,7 +41,7 @@ In February 2023, I decided to take a big step towards my future and enrolled in
 
 [<img alt="Git logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png?20220905010122" style="height: 35px" style="width: 35px">](https://git-scm.com/)
 
-[<img alt="GitHub logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/640px-Octicons-mark-github.svg.png" style="height: 35px" style="width: 35px">](https://github.com/)
+[<img alt="GitHub logo" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="height: 35px" style="width: 35px">](https://github.com/)
 
 [<img alt="webpack logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Webpack.svg/640px-Webpack.svg.png" style="height: 35px" style="width: 35px">](https://webpack.js.org/)
 
