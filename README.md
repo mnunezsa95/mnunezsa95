@@ -34,3 +34,7 @@ In February 2023, I decided to take a big step towards my future and enrolled in
 [<img alt="Python logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="height: 35px" style="width: 35px">](https://www.python.org/) 
 
 [<img alt="Figma logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436" style="height: 35px" style="width: 35px">](https://www.figma.com/community)
+
+[<img alt="Git logo" src="https://miro.medium.com/v2/resize:fit:600/1*iAThFn7tn8mTyQFv0szo2w.jpeg" style="height: 35px" style="width: 35px">](https://git-scm.com/)
+
+[<img alt="GitHub logo" src="https://assets.stickpng.com/images/629b7adc7c5cd817694c3231.png" style="height: 35px" style="width: 35px">](https://github.com/)
