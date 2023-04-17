@@ -19,4 +19,4 @@ In February 2023, I decided to take a big step towards my future and enrolled in
 ## Connect with me:
 
 ## Languages and Tools:
-<img src="https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn" style="height: 25px" style="width: 25px">
+[<img src="https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn" style="height: 35px" style="width: 35px">](https://developer.mozilla.org/en-US/docs/Web/HTML)
