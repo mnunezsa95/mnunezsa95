@@ -1,24 +1,18 @@
-## Hi there 👋, I'm Marlon Nunez, an aspiring Data Scientist
+## Hi there 👋, I'm Marlon Nunez, an aspiring Software Engineer / Data Scientist
 
-I am currently working as Project Manager for NewGlobe, a small Edtech / Ed Management company geared towards providing educational sustainbility in countries around the world. Long term, I am hoping to break into the tech industry as a Data Scientist of Full Stack Software Engineer.
+I am currently working as Project Manager for NewGlobe, a small Edtech and Ed Management company geared towards providing educational sustainbility in countries around the world. Long term, I am hoping to break into the tech industry as a Data Scientist or Full Stack Software Engineer.
 
-Growing up I always always STEM oriented. During my time in undergrad I studied Public Health and Neuroscience. However, I discovered my passion for technology, data, and engineering a few years out of college, when I started learning some Python, R, and SQL during my freetime. 
+Growing up I always always STEM oriented. During my time in undergrad I majored in Public Health and Neuroscience and earned a Bachelor of Science in Public Health from Tulane University in 2018. In 2020, I graduated from Boston Unversity with a Masters in Education. However, I discovered my passion for technology, data, and engineering a few years out of college, when I started learning some Python, R, and SQL during my freetime. 
 
-In February 2023, I decided to take a big step towards my future and enrolled in a 10 month Full Stack Software Engineering online bootcamp at Practicum by Yandex. My learning journey started with a focus on principles of front-end engineering such as HTML and CSS. 
+In February 2023, I decided to take a big step towards my future and enrolled in a 10 month [Full Stack Software Engineering online bootcamp](https://practicum.com/software-engineer/?form_position=%2F&gaid=940678093.1681249137) at [Practicum by Yandex.](https://practicum.com/) My learning journey started with a focus on principles of front-end engineering such as HTML and CSS, followed by a strong emphasis on JavaScript, React.js, Node.js, MongoDB, APIs, and other major concepts. I am scheduled to graduate from Practicum's Software Engineering Bootcamp in December 2023. After completing the program, I am scheduled to begin the 9 month [Data Science bootcamp](https://practicum.com/data-science/?form_position=%2Fsoftware-engineer%2F&gaid=940678093.1681249137) through Practicum. My goal is to have a strong understanding of both fields to become a versatile engineer to future employers.
+
+- 😄 Pronouns: he/him/his
+- 📫 How to reach me: connect with me via LinkedIn or email me at mnunezsa95@gmail.com
 
 
-
-<!--
-**mnunezsa95/mnunezsa95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a photo-sharing web app project [see my project here](https://mnunezsa95.github.io/se_project_aroundtheus/) through Practicum.
+- 🌱 I’m currently learning how to make websites interactive by targetting the DOM through JS.
+- 👯 I’m looking to collaborate on open source projects or volunteer projects that involve HTML, CSS, and JavaScript
+- 🤔 I’m looking for help with breaking into the tech industry without having a traditional computer science degree.
+- 💬 Ask me about creating internal systems to improve productivity in both personal and professional life
+- ⚡ Fun fact: I am obsessed with learning history and love participating in hisotry trivia
