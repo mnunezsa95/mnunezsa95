@@ -19,6 +19,18 @@ In February 2023, I decided to take a big step towards my future and enrolled in
 ## Connect with me:
 
 ## Languages and Tools:
-[<img alt="HTML logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png?20110131171049" style="height: 35px" style="width: 35px">](https://developer.mozilla.org/en-US/docs/Web/HTML)[<img alt="CSS logo" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" style="height: 35px" style="width: 35px">](https://developer.mozilla.org/en-US/docs/Web/CSS) [<img alt="React logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" style="height: 35px" style="width: 35px">](https://react.dev/) [<img alt="Node.js logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" style="height: 35px" style="width: 35px">](https://nodejs.org/en) 
+[<img alt="Markdown logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/208px-Markdown-mark-solid.svg.png?20140210115614" style="height: 35px" style="width: 35px">](https://www.markdownguide.org/)
+
+[<img alt="HTML logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png?20110131171049" style="height: 35px" style="width: 35px">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[<img alt="CSS logo" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" style="height: 35px" style="width: 35px">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+[<img alt="JavaScript logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" style="height: 35px" style="width: 35px">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[<img alt="React logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" style="height: 35px" style="width: 35px">](https://react.dev/)
+
+[<img alt="Node.js logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" style="height: 35px" style="width: 35px">](https://nodejs.org/en) 
+
+[<img alt="Python logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="height: 35px" style="width: 35px">](https://www.python.org/) 
 
 [<img alt="Figma logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436" style="height: 35px" style="width: 35px">](https://www.figma.com/community)
