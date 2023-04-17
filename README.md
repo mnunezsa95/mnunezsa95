@@ -16,7 +16,7 @@ In February 2023, I decided to take a big step towards my future and enrolled in
 - 💬 Ask me about creating internal systems to improve productivity in both personal and professional life
 - ⚡ Fun fact: I am obsessed with learning history and love participating in hisotry trivia
 
-## Connect with me<
+## Connect With Me:
 [<img alt="linkedin logo" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" style="height: 35px" style="width: 35px">](https://www.linkedin.com/in/marlon-nunez-35ba43b4/) [<img alt="email symbol" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" style="height: 35px" style="width: 35px">](mailto:mnunezsa95@gmail.com)
 
 ## Languages and Tools:
