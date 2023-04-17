@@ -19,4 +19,4 @@ In February 2023, I decided to take a big step towards my future and enrolled in
 ## Connect with me:
 
 ## Languages and Tools:
-https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn 
+<img src="https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn">
