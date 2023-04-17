@@ -19,7 +19,7 @@ In February 2023, I decided to take a big step towards my future and enrolled in
 ## Connect with me:
 
 ## Languages and Tools:
-[<img alt="Markdown logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/208px-Markdown-mark-solid.svg.png?20140210115614" style="height: 35px" style="width: 35px">](https://www.markdownguide.org/)
+[<img alt="Markdown logo" src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg" style="height: 35px" style="width: 35px">](https://www.markdownguide.org/)
 
 [<img alt="HTML logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png?20110131171049" style="height: 35px" style="width: 35px">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
