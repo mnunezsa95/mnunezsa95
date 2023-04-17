@@ -33,12 +33,14 @@ In February 2023, I decided to take a big step towards my future and enrolled in
 
 [<img alt="Python logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="height: 35px" style="width: 35px">](https://www.python.org/) 
 
+[<img alt="MongoDB logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png?20190626143224" style="height: 35px" style="width: 35px">](https://www.mongodb.com/) 
+
 [<img alt="Figma logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436" style="height: 35px" style="width: 35px">](https://www.figma.com/community)
 
-[<img alt="Git logo" src="https://miro.medium.com/v2/resize:fit:600/1*iAThFn7tn8mTyQFv0szo2w.jpeg" style="height: 35px" style="width: 35px">](https://git-scm.com/)
+[<img alt="Git logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png?20220905010122" style="height: 35px" style="width: 35px">](https://git-scm.com/)
 
-[<img alt="GitHub logo" src="https://allvectorlogo.com/img/2021/12/github-logo-vector.png" style="height: 35px" style="width: 35px">](https://github.com/)
+[<img alt="GitHub logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/640px-GitHub_Invertocat_Logo.svg.png" style="height: 35px" style="width: 35px">](https://github.com/)
 
-[<img alt="webpack logo" src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-dark-bg.png" style="height: 35px" style="width: 35px">](https://webpack.js.org/)
+[<img alt="webpack logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Webpack.svg/640px-Webpack.svg.png" style="height: 35px" style="width: 35px">](https://webpack.js.org/)
 
 [<img alt="google cloud logo" src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" style="height: 35px" style="width: 35px">](https://cloud.google.com/)
