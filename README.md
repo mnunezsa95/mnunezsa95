@@ -40,3 +40,5 @@ In February 2023, I decided to take a big step towards my future and enrolled in
 [<img alt="GitHub logo" src="https://allvectorlogo.com/img/2021/12/github-logo-vector.png" style="height: 35px" style="width: 35px">](https://github.com/)
 
 [<img alt="webpack logo" src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-dark-bg.png" style="height: 35px" style="width: 35px">](https://webpack.js.org/)
+
+[<img alt="google cloud logo" src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" style="height: 35px" style="width: 35px">](https://cloud.google.com/)
