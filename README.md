@@ -1,5 +1,6 @@
 ## Hi there 👋, I'm Marlon Nunez, an aspiring Software Engineer / Data Scientist
 
+## Background 
 I am currently working as Project Manager for NewGlobe, a small Edtech and Ed Management company geared towards providing educational sustainbility in countries around the world. Long term, I am hoping to break into the tech industry as a Data Scientist or Full Stack Software Engineer.
 
 Growing up I always always STEM oriented. During my time in undergrad I majored in Public Health and Neuroscience and earned a Bachelor of Science in Public Health from Tulane University in 2018. In 2020, I graduated from Boston Unversity with a Masters in Education. However, I discovered my passion for technology, data, and engineering a few years out of college, when I started learning some Python, R, and SQL during my freetime. 
@@ -8,11 +9,14 @@ In February 2023, I decided to take a big step towards my future and enrolled in
 
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: connect with me via LinkedIn or email me at mnunezsa95@gmail.com
-
-
-- 🔭 I’m currently working on a photo-sharing web app project [see my project here](https://mnunezsa95.github.io/se_project_aroundtheus/) through Practicum.
+- 🔭 I’m currently working on a photo-sharing web app project [(see my project here)](https://mnunezsa95.github.io/se_project_aroundtheus/) through Practicum.
 - 🌱 I’m currently learning how to make websites interactive by targetting the DOM through JS.
 - 👯 I’m looking to collaborate on open source projects or volunteer projects that involve HTML, CSS, and JavaScript
 - 🤔 I’m looking for help with breaking into the tech industry without having a traditional computer science degree.
 - 💬 Ask me about creating internal systems to improve productivity in both personal and professional life
 - ⚡ Fun fact: I am obsessed with learning history and love participating in hisotry trivia
+
+## Connect with me:
+
+## Languages and Tools:
+https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn 
