@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Marlon Nunez, an aspiring Software Engineer / Data Scientist
+## Hi there 👋, I'm Marlon Nunez, an aspiring Software Engineer / Data Analyst
 
 ## Background 
 I am currently working as Project Manager for NewGlobe, a small Edtech and Ed Management company geared towards providing educational sustainbility in countries around the world. Long term, I am hoping to break into the tech industry as a Data Scientist or Full Stack Software Engineer.
