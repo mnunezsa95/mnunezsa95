@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Marlon Nunez, an aspiring Software Engineer / Data Analyst
 
 ## Background 
-I am currently working as Project Manager for NewGlobe, a small Edtech and Ed Management company geared towards providing educational sustainbility in countries around the world. Long term, I am hoping to break into the tech industry as a Data Scientist or Full Stack Software Engineer.
+I am currently working as Project Manager for NewGlobe, a small Edtech and Ed Management company geared towards providing educational sustainbility in countries around the world. Long term, I am hoping to break into the tech industry as a Data Analyst or Full Stack Software Engineer.
 
 Growing up I always always STEM oriented. During my time in undergrad I majored in Public Health and Neuroscience and earned a Bachelor of Science in Public Health from Tulane University in 2018. In 2020, I graduated from Boston Unversity with a Masters in Education. However, I discovered my passion for technology, data, and engineering a few years out of college, when I started learning some Python, R, and SQL during my freetime. 
 
