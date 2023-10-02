@@ -9,8 +9,8 @@ In February 2023, I decided to take a big step towards my future and enrolled in
 
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: connect with me via LinkedIn or email me at mnunezsa95@gmail.com
-- 🔭 I’m currently working on a photo-sharing web app project [(see my project here)](https://mnunezsa95.github.io/se_project_aroundtheus/) through TripleTen.
-- 🌱 I’m currently learning how to make websites interactive by targetting the DOM through JS.
+- 🔭 I’m currently working on an application that makes clothing recommendations based on the weather forecast [(see my project here)](https://mnunezsa95.github.io/se_project_react/#/) through TripleTen.
+- 🌱 I’m currently learning how to work on a full-stack application, and implementing test cases for my application
 - 👯 I’m looking to collaborate on open source projects or volunteer projects that involve HTML, CSS, and JavaScript
 - 🤔 I’m looking for help with breaking into the tech industry without having a traditional computer science degree.
 - 💬 Ask me about creating internal systems to improve productivity in both personal and professional life
