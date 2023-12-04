@@ -1,18 +1,18 @@
-## Hi there 👋, I'm Marlon Nunez, an aspiring Software Engineer / Data Analyst
+## Hi there 👋, I'm Marlon Nunez, a Software Engineer / Project Manager / Data Analyst
 
 ## Background 
-I am currently working as Project Manager for NewGlobe, a small Edtech and Ed Management company geared towards providing educational sustainbility in countries around the world. Long term, I am hoping to break into the tech industry as a Data Analyst or Full Stack Software Engineer.
+I am presently the Project Manager at NewGlobe, a global education company committed to advancing educational sustainability worldwide. My skill set encompasses expertise in stakeholder engagement, strategic planning, and the effective execution of projects, spanning both short-term and long-term initiatives. Looking forward, my ambitions include transitioning into the tech industry with a focus on pursuing roles as a Full Stack Software Engineer or web developer.
 
-Growing up I always always STEM oriented. During my time in undergrad I majored in Public Health and Neuroscience and earned a Bachelor of Science in Public Health from Tulane University in 2018. In 2020, I graduated from Boston Unversity with a Masters in Education. However, I discovered my passion for technology, data, and engineering a few years out of college, when I started learning some Python, R, and SQL during my freetime. 
+From an early age, I've been drawn to STEM disciplines. In my undergraduate years, I majored in Public Health and Neuroscience, earning a Bachelor of Science in Public Health from Tulane University in 2018. Subsequently, in 2020, I obtained a Masters in Education from Boston University. While several years out of college, my passion for technology, data, and engineering emerged, leading me to delve into HTML, CSS, JavaScript, Python, R, and SQL during my free time.
 
-In February 2023, I decided to take a big step towards my future and enrolled in a 10 month [Full Stack Software Engineering online bootcamp](https://practicum.com/software-engineer/?form_position=%2F&gaid=940678093.1681249137) at [TripleTen by Yandex (formerly known as Practicum).](https://practicum.com/) My learning journey started with a focus on principles of front-end engineering such as HTML and CSS, followed by a strong emphasis on JavaScript, React.js, Node.js, MongoDB, APIs, and other major concepts. I am scheduled to graduate from TripleTen's Software Engineering Bootcamp in December 2023. After completing the program, I am scheduled to begin the 9 month [Data Science bootcamp](https://practicum.com/data-science/?form_position=%2Fsoftware-engineer%2F&gaid=940678093.1681249137) through TripleTen. My goal is to have a strong understanding of both fields to become a versatile engineer to future employers.
+In February 2023, I took a significant leap towards my tech-focused future by enrolling in a 10-month [Full Stack Software Engineering online bootcamp](https://practicum.com/software-engineer/?form_position=%2F&gaid=940678093.1681249137) at [TripleTen by Yandex (formerly known as Practicum).](https://practicum.com/) Commencing with front-end engineering principles like HTML and CSS, my journey progressed with a strong focus on JavaScript, React.js, Node.js, MongoDB, PostgreSQL, creating RESTful APIs, and many other essential concepts, frameworks and libraries. 
+
+I am set to embark on the subsequent 9-month [Data Science bootcamp](https://practicum.com/data-science/?form_position=%2Fsoftware-engineer%2F&gaid=940678093.1681249137) through TripleTen. My objective is to cultivate a profound understanding of both fields, positioning myself as a more-rounded versatile engineer for prospective employers and their companies.
 
 - 😄 Pronouns: he/him/his
-- 📫 How to reach me: connect with me via LinkedIn or email me at mnunezsa95@gmail.com
-- 🔭 I’m currently working on an application that makes clothing recommendations based on the weather forecast [(see my project here)](https://mnunezsa95.github.io/se_project_react/#/) through TripleTen.
-- 🌱 I’m currently learning how to work on a full-stack application, and implementing test cases for my application
-- 👯 I’m looking to collaborate on open source projects or volunteer projects that involve HTML, CSS, and JavaScript
-- 🤔 I’m looking for help with breaking into the tech industry without having a traditional computer science degree.
+- 📫 How to reach me: connect with me via [LinkedIn](https://www.linkedin.com/in/marlon-nunez-35ba43b4/) or email me at mnunezsa95@gmail.com
+- 🌱 I’m currently learning how to integret newly learned concepts (such as the creation of a backend server) into older front-end projects in order to create full-stack applications
+- 👯 I’m looking to collaborate get a role as a full-stack engineer or web-developer
 - 💬 Ask me about creating internal systems to improve productivity in both personal and professional life
 - ⚡ Fun fact: I am obsessed with learning history and love participating in hisotry trivia
 
