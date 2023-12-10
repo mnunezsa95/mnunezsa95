@@ -26,7 +26,7 @@ Looking ahead, my journey continues with the anticipation of a 9-month [Data Sci
 [<img alt="linkedin logo" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" style="height: 35px" style="width: 35px">](https://www.linkedin.com/in/marlon-nunez-35ba43b4/) [<img alt="email symbol" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" style="height: 35px" style="width: 35px">](mailto:mnunezsa95@gmail.com)
 
 ## Languages and Tools:
-[<img alt="Markdown logo" src="https://cdn.worldvectorlogo.com/logos/markdown.svg" style="height: 35px" style="width: 35px">](https://www.markdownguide.org/)  
+[<img alt="Markdown logo" src="" style="height: 35px" style="width: 35px">](https://www.markdownguide.org/)  
 [<img alt="HTML logo" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" style="height: 35px" style="width: 35px">](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 [<img alt="CSS logo" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="height: 35px" style="width: 35px">](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 
@@ -43,14 +43,13 @@ Looking ahead, my journey continues with the anticipation of a 9-month [Data Sci
 
 [<img alt="NPM logo" src="https://cdn.worldvectorlogo.com/logos/npm.svg" style="height: 35px" style="width: 35px">](https://www.npmjs.com/) 
 
-[<img alt="Figma logo" src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" style="height: 35px" style="width: 35px">](https://www.figma.com/community)  
+[<img alt="Figma logo" src="" style="height: 35px" style="width: 35px">](https://www.figma.com/community)  
 
 [<img alt="Git logo" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" style="height: 35px" style="width: 35px">](https://git-scm.com/)
 
-[<img alt="GitHub logo" src="" style="height: 35px" style="width: 35px">](https://github.com/)  
-
-[<img alt="Webpack logo" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" style="height: 35px" style="width: 35px">](https://webpack.js.org/)  
+[<img alt="GitHub logo" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" style="height: 35px" style="width: 35px">](https://github.com/)  
+[<img alt="ESLint logo" src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" style="height: 35px" style="width: 35px">](https://eslint.org/)  
+[<img alt="Webpack logo" src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" style="height: 35px" style="width: 35px">](https://webpack.js.org/)  
 [<img alt="Babel logo" src="https://cdn.worldvectorlogo.com/logos/babel-10.svg" style="height: 35px" style="width: 35px">](https://babeljs.io/)  
-
-[<img alt="Google Cloud logo" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" style="height: 35px" style="width: 35px">](https://cloud.google.com/) 
+[<img alt="Google Cloud logo" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" style="height: 35px" style="width: 35px">](https://cloud.google.com/) 
 
