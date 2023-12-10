@@ -29,24 +29,15 @@ Looking ahead, my journey continues with the anticipation of a 9-month [Data Sci
 [<img alt="Markdown logo" src="" style="height: 35px" style="width: 35px">](https://www.markdownguide.org/)  
 [<img alt="HTML logo" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" style="height: 35px" style="width: 35px">](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 [<img alt="CSS logo" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="height: 35px" style="width: 35px">](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-
 [<img alt="JavaScript logo" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" style="height: 35px" style="width: 35px">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-
 [<img alt="React logo" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" style="height: 35px" style="width: 35px">](https://react.dev/)  
-
 [<img alt="Node.js logo" src="https://cdn.worldvectorlogo.com/logos/nodejs-3.svg" style="height: 35px" style="width: 35px">](https://nodejs.org/en)  
-
 [<img alt="Python logo" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="height: 35px" style="width: 35px">](https://www.python.org/) 
-
 [<img alt="MongoDB logo" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" style="height: 35px" style="width: 35px">](https://www.mongodb.com/)  
 [<img alt="PostgreSQL logo" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" style="height: 35px" style="width: 35px">](https://www.postgresql.org/) 
-
 [<img alt="NPM logo" src="https://cdn.worldvectorlogo.com/logos/npm.svg" style="height: 35px" style="width: 35px">](https://www.npmjs.com/) 
-
-[<img alt="Figma logo" src="" style="height: 35px" style="width: 35px">](https://www.figma.com/community)  
-
+[<img alt="Figma logo" src="https://www.svgrepo.com/show/452202/figma.svg" style="height: 35px" style="width: 35px">](https://www.figma.com/community)  
 [<img alt="Git logo" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" style="height: 35px" style="width: 35px">](https://git-scm.com/)
-
 [<img alt="GitHub logo" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" style="height: 35px" style="width: 35px">](https://github.com/)  
 [<img alt="ESLint logo" src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" style="height: 35px" style="width: 35px">](https://eslint.org/)  
 [<img alt="Webpack logo" src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" style="height: 35px" style="width: 35px">](https://webpack.js.org/)  
