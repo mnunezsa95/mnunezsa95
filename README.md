@@ -14,6 +14,7 @@ From an early age, my affinity for STEM disciplines has been a guiding force. In
 
 Looking ahead, my journey continues with the anticipation of a 9-month [Data Science bootcamp](https://practicum.com/data-science/?form_position=%2Fsoftware-engineer%2F&gaid=940678093.1681249137) through TripleTen, commencing in February 2024. My aim is to cultivate a profound understanding of both fields, positioning myself as a more-rounded and versatile engineer for prospective employers, their companies, and my own ongoing professional and personal development.
 
+## About Me
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: connect with me via [LinkedIn](https://www.linkedin.com/in/marlon-nunez-35ba43b4/) or email me at mnunezsa95@gmail.com
 - 🌱 I’m currently working on integreting newly learned concepts (such as the creation of a backend server) into older front-end projects in order to create full-stack applications
