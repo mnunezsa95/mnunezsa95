@@ -19,7 +19,7 @@ I am set to embark on the subsequent 9-month [Data Science bootcamp](https://pra
 - 🌱 I’m currently working on integreting newly learned concepts (such as the creation of a backend server) into older front-end projects in order to create full-stack applications
 - 👯 I’m looking to collaborate get a role as a full-stack engineer, front-end engineer or web-developer
 - 💬 Ask me about creating internal systems to improve productivity in both personal and professional life
-- ⚡ Fun fact: I am obsessed with learning history and love participating in hisotry trivia any chance I get
+- ⚡ Fun fact: I am obsessed with learning history and love participating in history trivia any chance I get; I can also name pretty much any country's flag in the world You pick it, I name it!
 
 ## Connect With Me:
 [<img alt="linkedin logo" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" style="height: 35px" style="width: 35px">](https://www.linkedin.com/in/marlon-nunez-35ba43b4/) [<img alt="email symbol" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" style="height: 35px" style="width: 35px">](mailto:mnunezsa95@gmail.com)
