@@ -1,7 +1,12 @@
-## Hi there 👋, I'm Marlon Nunez, a Software Engineer / Project Manager / Data Analyst
+## Hi there 👋, I'm Marlon Nunez, a Software Engineer currently working as Project Manager
+
+## Current Role
+
+I am a seasoned full-stack engineer with specialization in JavaScript, Node.js, and React.js, currently serving as a Project Manager at NewGlobe, a leading global education company dedicated to promoting educational sustainability on a worldwide scale. My professional expertise spans stakeholder engagement, strategic planning, and the proficient execution of projects, encompassing both short-term and long-term initiatives.
+
+As I look ahead, my aspirations involve a transition into the tech industry, with a keen focus on pursuing roles as a Full Stack Software Engineer or web developer. I am excited about leveraging my extensive experience and skills to contribute meaningfully to the dynamic landscape of technology and further enhance my proficiency in software development.
 
 ## Background 
-I am currently operating as Project Manager at NewGlobe, a global education company committed to advancing educational sustainability worldwide. My skill set encompasses expertise in stakeholder engagement, strategic planning, and the effective execution of projects, spanning both short-term and long-term initiatives. Looking forward, my ambitions include transitioning into the tech industry with a focus on pursuing roles as a Full Stack Software Engineer or web developer.
 
 From an early age, I've been drawn to STEM disciplines. In my undergraduate years, I majored in Public Health and Neuroscience, earning a Bachelor of Science in Public Health from Tulane University in 2018. Subsequently, in 2020, I obtained a Masters in Education from Boston University and decided to go into teaching. Two years, after my teaching role, I worked as an operations director and project manager, where I was reacquainted with my passion for technology, and discovered the software engineering branch. While several years out of college, my passion for technology, data, and engineering emerged, leading me to delve into HTML, CSS, JavaScript, Python, and SQL during my free time.
 
