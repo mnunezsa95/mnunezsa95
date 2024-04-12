@@ -2,24 +2,23 @@
 
 ## Current Role
 
-I am Full-stack engineer specializing in JavaScript, Node, and React, with a proven track record in project management and stakeholder engagement. Leveraging my academic background in project management and STEM fields, my aim is to play a pivotal role in a mission-driven organization dedicated to delivering impactful business solutions across diverse sectors.
+I'm a Full-stack Engineer with a diverse professional background and a passion for leveraging technology to drive impactful solutions. I specialize in JavaScript, Node, and React, and I bring an agile approach to my work, navigating through the ambiguous landscape of technology while fostering a collaborative team dynamic.
+
+Currently, I'm enrolled in TripleTen's [9-month Data Science Bootcamp](https://tripleten.com/data-science/) to deepen my expertise and broaden my skill set. My aim is to merge my passion for data-driven decision-making with my software engineering skills to contribute effectively to projects requiring technical and analytical proficiency.
 
 ## Background 
 
-In February 2023, I enrolled in TripleTen's 10-month Online Bootcamp for [Full Stack Software Engineering](https://tripleten.com/software-engineer/), where I gained extensive experience in full-stack engineering concepts and completed multiple full-stack projects. While focusing primarily on the MERN (Mongo, Express, React, and Node) stack, I also acquired proficiency in additional languages like Python and SQL, and explored various technologies such as GraphQL, KeystoneJS, among others during the program.
+In February 2023, I embarked on TripleTen's 10-month Online Bootcamp for [Full Stack Software Engineering](https://tripleten.com/software-engineer/), gaining extensive experience in full-stack concepts and completing multiple projects. While mastering the MERN stack, I also acquired proficiency in languages like Python and SQL and explored technologies such as GraphQL, KeystoneJS, Google Cloud Platform (GCP), and many others.
 
-From 2014 to 2018, I pursued a Bachelor's of Science in Public Health (BSPH) with a double major in Neuroscience at Tulane University. Following my undergraduate studies, I embarked on my professional journey as an educator in 2018 while concurrently pursuing a master's degree at Boston University. In 2020, I proudly attained a Masters in Education from Boston University.
-
-
-Looking ahead, my journey continues with the anticipation of a 9-month [Data Science bootcamp](https://practicum.com/data-science/?form_position=%2Fsoftware-engineer%2F&gaid=940678093.1681249137) through TripleTen, commencing in February 2024. My aim is to cultivate a profound understanding of both fields, positioning myself as a more-rounded and versatile engineer for prospective employers, their companies, and my own ongoing professional and personal development.
+Prior to this, I pursued a Bachelor's of Science in Public Health with a double major in Neuroscience at Tulane University from 2014 to 2018. Following my undergraduate studies, I delved into education, concurrently pursuing a Master's of Education from Boston University from 2018 to 2020.
 
 ## About Me
 - 😄 Pronouns: he/him/his
-- 📫 How to reach me: connect with me via [LinkedIn](https://www.linkedin.com/in/marlon-nunez-35ba43b4/) or email me at mnunezsa95@gmail.com
-- 🌱 I’m currently working on integreting newly learned concepts (such as the creation of a backend server) into older front-end projects in order to create full-stack applications
-- 👯 I’m looking to collaborate get a role as a full-stack engineer, front-end engineer or web-developer
-- 💬 Ask me about creating internal systems to improve productivity in both personal and professional life
-- ⚡ Fun fact: I am obsessed with learning history and love participating in history trivia any chance I get; I can also name pretty much any country's flag in the world You pick it, I name it!
+- 📫 How to reach me: Connect with me via LinkedIn or email me at mnunezsa95@gmail.com.
+- 🌱 I’m currently diving into the principles of machine learning, eager to apply them to real-world projects.
+- 👯 I’m enthusiastic about collaborating in roles as a full-stack engineer, front-end engineer, or software engineer, leveraging my diverse skill set and passion for technology.
+- 💬 Ask me about crafting internal systems to enhance productivity, whether in personal or professional settings.
+- ⚡ Fun fact: I have an insatiable curiosity for history and excel at history trivia. Challenge me to name any country's flag, and chances are, I'll get it right!
 
 ## Connect With Me:
 [<img alt="linkedin logo" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" style="height: 35px" style="width: 35px">](https://www.linkedin.com/in/marlon-nunez-35ba43b4/) [<img alt="email symbol" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" style="height: 35px" style="width: 35px">](mailto:mnunezsa95@gmail.com)
