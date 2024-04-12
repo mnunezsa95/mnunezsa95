@@ -4,7 +4,7 @@
 
 I'm a Full-stack Engineer with a diverse professional background and a passion for leveraging technology to drive impactful solutions. I specialize in JavaScript, Node, and React, and I bring an agile approach to my work, navigating through the ambiguous landscape of technology while fostering a collaborative team dynamic.
 
-Currently, I'm enrolled in TripleTen's [9-month Data Science Bootcamp](https://tripleten.com/data-science/) to deepen my expertise and broaden my skill set. My aim is to merge my passion for data-driven decision-making with my software engineering skills to contribute effectively to projects requiring technical and analytical proficiency.
+Currently, I'm enrolled in TripleTen's 9-month [Data Science Bootcamp](https://tripleten.com/data-science/) to deepen my expertise and broaden my skill set. My aim is to merge my passion for data-driven decision-making with my software engineering skills to contribute effectively to projects requiring technical and analytical proficiency.
 
 ## Background 
 
