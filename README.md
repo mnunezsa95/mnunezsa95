@@ -1,16 +1,15 @@
-## Hi there 👋, I'm Marlon Nunez, a Software Engineer currently working as Project Manager
+## Hi there 👋, I'm Marlon Nunez, a Software Engineer and Project Manager
 
 ## Current Role
 
-I am a skilled full-stack engineer specializing in JavaScript, Node.js, and React.js, currently serving as a Project Manager at NewGlobe, a global education leader. In my role, I excel in stakeholder engagement, strategic planning, and project management across various timelines, as well as demonstrating a comprehensive understanding of both frontend and backend development concepts.
-
-Looking forward, I am looking to transition into the tech industry, focusing on roles as a Full Stack Developer or web developer. Excited to leverage my experience, I aim to contribute meaningfully to the dynamic technology landscape and enhance my proficiency in software development.
+I am Full-stack engineer specializing in JavaScript, Node, and React, with a proven track record in project management and stakeholder engagement. Leveraging my academic background in project management and STEM fields, my aim is to play a pivotal role in a mission-driven organization dedicated to delivering impactful business solutions across diverse sectors.
 
 ## Background 
 
-In February 2023, I took a bold step towards my tech-focused journey, enrolling in a transformative 10-month [Full Stack Software Engineering online bootcamp](https://practicum.com/software-engineer/?form_position=%2F&gaid=940678093.1681249137). Kicking off with foundational front-end engineering principles such as HTML and CSS, my exploration extended into the realms of JavaScript, React.js, Node.js, MongoDB, PostgreSQL, and the development of RESTful APIs. This immersive experience also encompassed various essential concepts, frameworks, and libraries.
+In February 2023, I enrolled in TripleTen's 10-month Online Bootcamp for [Full Stack Software Engineering](https://tripleten.com/software-engineer/), where I gained extensive experience in full-stack engineering concepts and completed multiple full-stack projects. While focusing primarily on the MERN (Mongo, Express, React, and Node) stack, I also acquired proficiency in additional languages like Python and SQL, and explored various technologies such as GraphQL, KeystoneJS, among others during the program.
 
-From an early age, my affinity for STEM disciplines has been a guiding force. In my undergraduate years, I pursued a major in Public Health and Neuroscience, culminating in the attainment of a Bachelor of Science in Public Health from Tulane University in 2018. Subsequently, in 2020, I earned a Masters in Education from Boston University and ventured into the field of teaching. Two years later, transitioning into roles as an operations director and project manager, I rediscovered my passion for technology and explored the exciting realm of software engineering. 
+From 2014 to 2018, I pursued a Bachelor's of Science in Public Health (BSPH) with a double major in Neuroscience at Tulane University. Following my undergraduate studies, I embarked on my professional journey as an educator in 2018 while concurrently pursuing a master's degree at Boston University. In 2020, I proudly attained a Masters in Education from Boston University.
+
 
 Looking ahead, my journey continues with the anticipation of a 9-month [Data Science bootcamp](https://practicum.com/data-science/?form_position=%2Fsoftware-engineer%2F&gaid=940678093.1681249137) through TripleTen, commencing in February 2024. My aim is to cultivate a profound understanding of both fields, positioning myself as a more-rounded and versatile engineer for prospective employers, their companies, and my own ongoing professional and personal development.
 
