@@ -1,14 +1,14 @@
-## Hi there 👋, I'm Marlon Nunez, a Software Engineer and Project Manager
+## Hi there 👋, I'm Marlon Nunez, a Software Engineer and Technical Project Manager
 
 ## Current Role
 
-I'm a Full-stack Engineer with a diverse professional background and a passion for leveraging technology to drive impactful solutions. I specialize in JavaScript, Node, and React, and I bring an agile approach to my work, navigating through the ambiguous landscape of technology while fostering a collaborative team dynamic.
-
-Currently, I'm enrolled in TripleTen's 9-month [Data Science Bootcamp](https://tripleten.com/data-science/) to deepen my expertise and broaden my skill set. My aim is to merge my passion for data-driven decision-making with my software engineering skills to contribute effectively to projects requiring technical and analytical proficiency.
+Full-Stack Engineer and Technical Project Manager skilled in JavaScript, Node, and React, with a strong history in project management and engaging stakeholders. Leveraging my project management expertise and technical skills, I seek to contribute significantly to a mission-driven organization delivering impactful business solutions across diverse sectors.
 
 ## Background 
 
-In February 2023, I embarked on TripleTen's 10-month Online Bootcamp for [Full Stack Software Engineering](https://tripleten.com/software-engineer/), gaining extensive experience in full-stack concepts and completing multiple projects. While mastering the MERN stack, I also acquired proficiency in languages like Python and SQL and explored technologies such as GraphQL, KeystoneJS, Google Cloud Platform (GCP), and many others.
+Currently, I'm enrolled in TripleTen's 9-month [Data Science Bootcamp](https://tripleten.com/data-science/) to deepen my expertise and broaden my skill set. My aim is to merge my passion for data-driven decision-making with my software engineering skills to contribute effectively to projects requiring technical and analytical proficiency.
+
+In February 2023, I embarked on TripleTen's 10-month Online Bootcamp for [Full Stack Software Engineering](https://tripleten.com/software-engineer/), gaining extensive experience in full-stack concepts and completing multiple projects. While mastering the MERN stack, I also acquired proficiency in languages like Python and SQL and explored technologies such as GraphQL, , Google Cloud Platform (GCP), and many others.
 
 Prior to this, I pursued a Bachelor's of Science in Public Health with a double major in Neuroscience at Tulane University from 2014 to 2018. Following my undergraduate studies, I delved into education, concurrently pursuing a Master's of Education from Boston University from 2018 to 2020.
 
